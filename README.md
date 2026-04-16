@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tamojit Roy  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=tamojitroy12&label=Profile%20Views&color=0e75b6&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/tamojitroy12?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/tamojitroy12?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
 ---
 
@@ -85,8 +85,8 @@
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamojitroy12&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamojitroy12&theme=tokyonight&hide_border=true)  
 
 ---
 
