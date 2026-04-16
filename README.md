@@ -93,8 +93,8 @@
 ## 📫 Connect with Me  
 
 - 📧 Email: rikroy1212@gmail.com  
-- 💼 LinkedIn: *(Add your link here)*  
-- 🌐 Portfolio: *(Add if you have one)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/tamojit-roy-057256289/
+- 🌐 Portfolio: Coming Soon! 
 
 ---
 
